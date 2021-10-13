@@ -1,6 +1,8 @@
 # U02-1 | Bouncer hat Hunger
 
-![Diese Kirschen muss/will Bouncer aufessen.](docs/Kirschen.png)
+| Diese Kirschen muss/will Bouncer aufessen. |
+|:-------:|
+| ![Diese Kirschen muss/will Bouncer aufessen.](./docs/Kirschen.png) |
 
 ## Ausgangslage
 In dieser Aufgabe liegen in Bouncers Welt einige Kirschen, die Bouncer
