@@ -5,7 +5,7 @@ import de.ur.mi.bouncer.world.fields.FieldColor;
 public class KirschenEssen extends BouncerApp {
 
     /**
-     * Bouncer ist hungry and intends to feast on the cherries in the map.
+     * Bouncer is hungry and intends to feast on the cherries in the map.
      */
     @Override
     public void bounce() {
